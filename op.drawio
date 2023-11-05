@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T13:24:43.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="nGAFD1XhLx-BAoKfOJcx" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-05T13:15:44.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="d4zNrpuqsWYf1A73ChJl" version="22.0.8" type="github">
   <diagram name="Page-1" id="on3lXjrbku3OEMFmnaN-">
-    <mxGraphModel dx="880" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="1791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,11 +68,104 @@
         <mxCell id="QDIh8MvFq-9qs7UtXMdY-17" value="View Reports" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="210" y="360" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="EKUkhfJZ03WyP2QzKe4X-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/chart-analytics-stocks-increasing-growth-128.png" vertex="1" parent="1">
-          <mxGeometry x="401.5" y="81" width="79" height="79" as="geometry" />
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="230" as="targetPoint" />
+            <mxPoint x="420" y="166" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="421" y="166" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="EKUkhfJZ03WyP2QzKe4X-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_2;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="399.5" y="-60" width="80.5" height="60" as="geometry" />
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="461" y="170" as="targetPoint" />
+            <mxPoint x="461" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.245;exitY=1.081;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="wievJ8HCAuLmgO6l-aq3-22" target="EKUkhfJZ03WyP2QzKe4X-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="421" y="10" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="EKUkhfJZ03WyP2QzKe4X-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="-11" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EKUkhfJZ03WyP2QzKe4X-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/success-filloutline/64/chart-analytics-stocks-increasing-growth-128.png" parent="1" vertex="1">
+          <mxGeometry x="402" y="50" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-1" value="" style="shape=mxgraph.cisco.computers_and_peripherals.scanner;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="270" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="285" as="targetPoint" />
+            <mxPoint x="720" y="285" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="720" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-4" value="ADMIN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="79" y="238" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-5" value="STAFF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="438" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-6" value="SCANNER&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="318" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-7" value="USER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="318" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wievJ8HCAuLmgO6l-aq3-1" target="QDIh8MvFq-9qs7UtXMdY-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="286" />
+              <mxPoint x="540" y="286" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="481" y="311" as="sourcePoint" />
+            <mxPoint x="570" y="311" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="511" y="311" />
+              <mxPoint x="511" y="311" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="631" y="310" as="sourcePoint" />
+            <mxPoint x="720" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="661" y="310" />
+              <mxPoint x="661" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.925;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wievJ8HCAuLmgO6l-aq3-7" target="QDIh8MvFq-9qs7UtXMdY-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="434" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-13" value="Request for Books" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="408" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-19" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-140" width="80" height="97.56" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-21" value="Analytics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="406.5" y="130" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wievJ8HCAuLmgO6l-aq3-22" value="Database Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-42.44" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
