@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T06:35:34.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="2PHHJfA8W90j8AfBlGEv" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T14:57:43.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ffJhIqRUEHjQeaVRrey8" version="22.1.18" type="github">
   <diagram name="Page-1" id="fS8TGvwCn-0KRB2SJR9b">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -62,6 +62,18 @@
         </mxCell>
         <mxCell id="zLddz1JKHRHsstX0XcwO-26" value="Land Changes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="212.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="zLddz1JKHRHsstX0XcwO-27" value="Increase of Global Temperature due to Global Warming" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="99.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLddz1JKHRHsstX0XcwO-28" value="Increase in Hurricane Activities due to abnormal Sea temprature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLddz1JKHRHsstX0XcwO-29" value="Increase in Land Changes due to frequent hurricane activity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="353" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zLddz1JKHRHsstX0XcwO-30" value="Increase in Global Warming due to land alteration resulting to unbalance green house emission" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110.5" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
