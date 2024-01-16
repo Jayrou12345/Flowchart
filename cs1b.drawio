@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T06:20:37.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UgmDPUK_ttGKoPdXQ7nB" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T06:34:01.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="O-QF8o84WO0jL0GOV8aA" version="22.1.18" type="github">
   <diagram name="Page-1" id="IVi37I3aK0WylxZDK_SZ">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,10 +66,10 @@
         <mxCell id="pUlCks9OsAvWHs1VP2Rb-19" value="Increase in Hurricane Activities due to abnormal Sea temprature" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="350" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pUlCks9OsAvWHs1VP2Rb-20" value="Due to Extreme Weather Events Media Coverage and Public Awareness&amp;nbsp;increases media coverage and public awareness of the link between climate change and the intensity of hurricanes." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pUlCks9OsAvWHs1VP2Rb-20" value="Because if extreme weather event, there is a greater awareness among the Public and Media about the connection between hurricane intensity and climate change." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="353" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pUlCks9OsAvWHs1VP2Rb-21" value="Increase in Global Warming due to land alteration resulting to unbalance green house emission" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="pUlCks9OsAvWHs1VP2Rb-21" value="Decrease in Global Warming due to Public Awareness about the problem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="110.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pUlCks9OsAvWHs1VP2Rb-22" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;" vertex="1" parent="1">
