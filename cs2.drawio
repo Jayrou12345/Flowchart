@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T14:23:38.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_rHjLQOLFmBdbttPw7AJ" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T14:32:27.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wsBZ5XIvLOAosBKnVLpX" version="22.1.20" type="github">
   <diagram name="Page-1" id="o2Oewja4m09LuV-sOPrQ">
     <mxGraphModel dx="1036" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,8 +34,8 @@
         <mxCell id="YOenHZwDBqFvzsbJHhOg-8" value="Impact on Coal Industry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="225" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YOenHZwDBqFvzsbJHhOg-9" value="Switch to Natural Gas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="375" y="345" width="90" height="30" as="geometry" />
+        <mxCell id="YOenHZwDBqFvzsbJHhOg-9" value="Switch to Natural Gas and Other Alternatives" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="345" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YOenHZwDBqFvzsbJHhOg-10" value="Demand for Coal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="225" width="60" height="30" as="geometry" />
