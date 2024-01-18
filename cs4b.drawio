@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T06:28:24.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="15qdai37Z9mhpPdhMIHt" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T06:33:41.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="c953XI9Kk19sWrGksPJ0" version="22.1.21" type="github">
   <diagram name="Page-1" id="pSBvFk2BeY6s0IXey9MD">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,17 +37,17 @@
         <mxCell id="eXanJCdOBruwRP_AvD-p-11" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="340" width="20" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="eXanJCdOBruwRP_AvD-p-12" value="Due to Obesity there will be an increase Impact in the economy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eXanJCdOBruwRP_AvD-p-12" value="Increase in Awareness and Education about obesity may help supplement the problem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="101.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXanJCdOBruwRP_AvD-p-13" value="Due to an increase in Economic Impact because of Obesity there will be an increase in Inflation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eXanJCdOBruwRP_AvD-p-13" value="Increase in Awareness and Education about obesity increases the person&#39;s Behavioral Changes towards a fit life" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="334.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXanJCdOBruwRP_AvD-p-14" value="Increase in Inflation means consumer&#39;s/people&#39;s Dietary Patterns will change shifting their diet to processed and energy-dense foods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="319.5" width="80" height="55.5" as="geometry" />
+        <mxCell id="eXanJCdOBruwRP_AvD-p-14" value="Increase in Behavioral Changes mean an increase of Positive Health Outcomes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="80" height="55.5" as="geometry" />
         </mxCell>
-        <mxCell id="eXanJCdOBruwRP_AvD-p-15" value="Change in Dietary Patterns means an increase in Obesity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120.5" width="60" height="30" as="geometry" />
+        <mxCell id="eXanJCdOBruwRP_AvD-p-15" value="Lastly increase in Positive Health Outcomes means a decrease on Obesity cases among people" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="114" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eXanJCdOBruwRP_AvD-p-16" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="119.5" width="20" height="19" as="geometry" />
