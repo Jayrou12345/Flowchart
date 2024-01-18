@@ -1,9 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T01:59:49.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="Ccp6vIO39UmxI5j8FENG" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T02:28:40.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fzQ-7rJDVVpp-2u_9m4R" version="22.1.21" type="github">
   <diagram name="Page-1" id="iRjdK_8fd1NgSid81Goc">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="EjynPHAwwgdGUjsNVNW4-2" target="EjynPHAwwgdGUjsNVNW4-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="EjynPHAwwgdGUjsNVNW4-4" target="EjynPHAwwgdGUjsNVNW4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-4" value="Job Creation&amp;nbsp;&lt;br&gt;in&lt;br&gt;Diversified Sector" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="EjynPHAwwgdGUjsNVNW4-6" target="EjynPHAwwgdGUjsNVNW4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-6" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="EjynPHAwwgdGUjsNVNW4-8" target="EjynPHAwwgdGUjsNVNW4-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-8" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-9" value="Layoff in Coal Industry" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="105" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-10" value="Economic Downturn in Coal-Dependent Regions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="225" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-11" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;" vertex="1" parent="1">
+          <mxGeometry x="390" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-12" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120.5" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-13" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-15" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-19" value="Economic Diversification" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="345" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-24" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;-&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="242" y="102" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-25" value="Due to Layoff in employees there will be an increase in Economic Downturn in Coal-Dependent Regions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="120.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-26" value="Due to Economic Downturn in Coal-Dependent Regions Economic Diversification will increase to supplement the economic downturn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="345" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-27" value="Implementation of Economic Diversification will increase&amp;nbsp; Job Creation in Diversified Sector" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="321.75" width="70" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EjynPHAwwgdGUjsNVNW4-28" value="Due to increase of Job Creation in Diversified Sector Layoff/Unemployment&lt;br&gt;in Coal Industry will decrease" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="182" y="102" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
