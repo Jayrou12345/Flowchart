@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T06:27:26.593Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.21" etag="IqhYgaekbFsf2bETyyDa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T06:28:24.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="15qdai37Z9mhpPdhMIHt" version="22.1.21" type="github">
   <diagram name="Page-1" id="pSBvFk2BeY6s0IXey9MD">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eXanJCdOBruwRP_AvD-p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="eXanJCdOBruwRP_AvD-p-2" target="eXanJCdOBruwRP_AvD-p-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="eXanJCdOBruwRP_AvD-p-4" target="eXanJCdOBruwRP_AvD-p-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-4" value="Positive Health Outcomes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="eXanJCdOBruwRP_AvD-p-6" target="eXanJCdOBruwRP_AvD-p-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-6" value="Behavioral Changes" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="eXanJCdOBruwRP_AvD-p-8" target="eXanJCdOBruwRP_AvD-p-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-8" value="Awareness and Education" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-9" value="Obesity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="105" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-10" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;" vertex="1" parent="1">
+          <mxGeometry x="390" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-11" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-12" value="Due to Obesity there will be an increase Impact in the economy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="101.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-13" value="Due to an increase in Economic Impact because of Obesity there will be an increase in Inflation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="334.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-14" value="Increase in Inflation means consumer&#39;s/people&#39;s Dietary Patterns will change shifting their diet to processed and energy-dense foods" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="319.5" width="80" height="55.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-15" value="Change in Dietary Patterns means an increase in Obesity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="120.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-16" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="119.5" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-17" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="341" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="eXanJCdOBruwRP_AvD-p-18" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100.5" width="20" height="19" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
