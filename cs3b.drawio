@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T05:13:17.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="W5G0x8yBmTnXlCCpmyn0" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T05:17:59.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="97k3w1d64jT81xSiI8WY" version="22.1.21" type="github">
   <diagram name="Page-1" id="zCXWzLUwnWcZddKUeMfU">
     <mxGraphModel dx="880" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,14 +40,14 @@
         <mxCell id="rxUftr2OwrsVNxe5Y76c-13" value="Because of Faulty Products an increase on Quality Control can help supplement the problem" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="80" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rxUftr2OwrsVNxe5Y76c-14" value="Due to Economic Downturn in Coal-Dependent Regions Economic Diversification will increase to supplement the economic downturn" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="rxUftr2OwrsVNxe5Y76c-14" value="Increase in Quality Control can cause an increase in Consumers Confidence to buy the certain products" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="598" y="334.5" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rxUftr2OwrsVNxe5Y76c-15" value="Implementation of Economic Diversification will increase&amp;nbsp; Job Creation in Diversified Sector" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="260" width="70" height="55.5" as="geometry" />
+        <mxCell id="rxUftr2OwrsVNxe5Y76c-15" value="Increase in Financial Reputation means Operational Challenges will decrease because there will be sufficient funds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="270" width="100" height="55.5" as="geometry" />
         </mxCell>
-        <mxCell id="rxUftr2OwrsVNxe5Y76c-16" value="Due to increase of Job Creation in Diversified Sector Layoff/Unemployment&lt;br&gt;in Coal Industry will decrease" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="71.5" width="60" height="30" as="geometry" />
+        <mxCell id="rxUftr2OwrsVNxe5Y76c-16" value="Decrease in Operational Challenges mean decrease in Faulty Products because of an efficient manufacturing of products" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rxUftr2OwrsVNxe5Y76c-18" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;-&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="550" y="304.5" width="60" height="30" as="geometry" />
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="rxUftr2OwrsVNxe5Y76c-27" value="" style="shape=mxgraph.signs.healthcare.first_aid;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="410" y="359" width="20" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="rxUftr2OwrsVNxe5Y76c-28" value="Increase in Consumers Confidence mean Financial and Reputation of the product/services will increase" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="390" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
